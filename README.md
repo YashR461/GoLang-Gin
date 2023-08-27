@@ -45,6 +45,6 @@ Use tools like  Postman to send HTTP requests to the provided endpoints (e.g., P
 |-------------|--------------------------------------------|----------------------|
 | POST        | http://localhost:8080/books                | Adds a book          | 
 | GET         | http://localhost:8080/books                | Get all books        |
-| GET         | http://localhost:8080/books/id             | Update player by id  |                        
-| PATCH       | http://localhost:8080/issue?1              | Get a random player  |                  
-|-------------|------------------------------------------ -|----------------------|
+| GET         | http://localhost:8080/books/id             | Get book by id       |                        
+| PATCH       | http://localhost:8080/issue?1              | Issue a book by id   |                  
+|-------------|--------------------------------------------|----------------------|
